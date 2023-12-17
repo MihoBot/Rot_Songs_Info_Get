@@ -1,0 +1,2 @@
+import RotaenoDifGet
+RotaenoDifGet.Main()
